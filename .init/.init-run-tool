@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-notes-manager-240186-240200/notes_frontend"
+}
